@@ -4,8 +4,8 @@
 ## 📋 Requirements
 
 React Native apps may target iOS 13.4 and Android 5.0 (API 21) or newer. You may use Windows, macOS, or Linux as your development operating system, though building and running iOS apps is limited to macOS. Tools like [Expo](https://expo.dev) is used here to work around this.
-If you are new to React-Native development please refer [ReactNative Docs](https://reactnative.dev/docs/getting-started)
-If you are new to Expo please refer [Expo Docs](https://docs.expo.dev/get-started/create-a-project)
+- If you are new to React-Native development please refer [ReactNative Docs](https://reactnative.dev/docs/getting-started)
+- If you are new to Expo please refer [Expo Docs](https://docs.expo.dev/get-started/create-a-project)
 
 
 ### 1. Clone the `Jobsift` repository
