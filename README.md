@@ -1,4 +1,4 @@
-#Jobsift
+# Jobsift
 ## ▶ Run the project locally
 
 ## 📋 Requirements
@@ -10,7 +10,7 @@ If you are new to Expo please refer [Expo Docs](https://docs.expo.dev/get-starte
 
 ### 1. Clone the `Jobsift` repository
 ```
-# git clone https://github.com/
+# git clone https://github.com/unseen703/Jobsift.git
 # cd cloned_repo 
 ```
 
